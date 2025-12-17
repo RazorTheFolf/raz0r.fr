@@ -60,7 +60,7 @@ export default function Navbar(props) {
               )}
             </button>
             <a
-              href="https://github.com/RazorTheWolf"
+              href="https://github.com/RazorTheFolf"
               target="_blank"
               className="md:hover:bg-gray-600 rounded-full p-1 group transition-colors ease-in-out duration-200"
             >
@@ -81,3 +81,4 @@ export default function Navbar(props) {
     </>
   );
 }
+

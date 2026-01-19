@@ -24,7 +24,7 @@ Ensure you have [Node.js](https://nodejs.org/) and a package manager for Node li
 
 ### 2. Clone the repository
 ```bash
-git clone [https://github.com/RazorTheFolf/raz0r.fr.git](https://github.com/RazorTheFolf/raz0r.fr.git)
+git clone https://github.com/RazorTheFolf/raz0r.fr.git
 cd raz0r.fr
 ```
 
